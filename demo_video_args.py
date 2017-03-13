@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#./tools/demo_webcam.py --net output/faster_rcnn_end2end/train/ZF_faster_rcnn_iter_10000.caffemodel --prototxt models/FACEACT/ZF/faster_rcnn_end2end/test.prototxt
+#python tools/demo_video_args.py --net output/marker/train/zf_faster_rcnn_basketball_iter_1000.caffemodel --prototxt models/basketball/test.prototxt 
 
 # --------------------------------------------------------
 # Faster R-CNN
